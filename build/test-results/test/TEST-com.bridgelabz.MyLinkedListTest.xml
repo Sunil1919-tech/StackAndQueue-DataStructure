@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MyLinkedListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-30T12:42:23" hostname="LAPTOP-NGQU5TVV" time="0.017">
+<testsuite name="com.bridgelabz.MyLinkedListTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-30T12:53:41" hostname="LAPTOP-NGQU5TVV" time="0.02">
   <properties/>
-  <testcase name="IfStackPopOrPeek_ShouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.014"/>
-  <testcase name="IfQueueIsCreated_ShouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.002"/>
-  <testcase name="IfStackIsCreated_shouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.001"/>
+  <testcase name="IfQueueIsDequeued_ShouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.017"/>
+  <testcase name="IfStackPopOrPeek_ShouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.001"/>
+  <testcase name="IfQueueIsCreated_ShouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.001"/>
+  <testcase name="IfStackIsCreated_shouldReturnTrue()" classname="com.bridgelabz.MyLinkedListTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
