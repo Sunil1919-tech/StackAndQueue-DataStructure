@@ -38,6 +38,7 @@ public class MyLinkedListTest {
         INode popStack = stack.pop();
         Assertions.assertEquals(popStack, myFirstNode);
     }
+    //testCase for Queue Operation using Linked List
     @Test
     public void IfQueueIsCreated_ShouldReturnTrue() {
         Queue<Integer> queue = new Queue<>();

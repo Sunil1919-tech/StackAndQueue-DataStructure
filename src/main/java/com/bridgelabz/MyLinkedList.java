@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class MyLinkedList <T extends Comparable<T>> {
+public class MyLinkedList<T extends Comparable<T>> {
     public INode<T> head;
     public INode<T> tail;
 
